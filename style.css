@@ -1,0 +1,9 @@
+body {
+    background-color: ;
+}
+
+.profile_pic {
+    width: 250px;
+    height: 325px;
+    border-radius: 50%;
+}
